@@ -7,7 +7,7 @@ export default function Home() {
         <title>Create Next App</title>
       </Head>
 
-      <main>Site content goes here.</main>
+      <main>Tes</main>
     </div>
   );
 }
